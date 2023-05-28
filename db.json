@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "HuySanke 45",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "name": "HuySanke ",
+      "price": 200,
+      "id": 3
+    }
+  ]
+}
